@@ -1,5 +1,8 @@
 # steamrule
 steam的分流规则 除了社区和商城其他都走直连
+
+
+
          - DOMAIN,api.steampowered.com,DIRECT
          - DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
          - DOMAIN-SUFFIX,steamserver.net,DIRECT
